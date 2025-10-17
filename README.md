@@ -32,5 +32,5 @@ Para executar este projeto localmente, vai precisar de:
 - [Docker](https://www.docker.com/get-started)
 
 ```bash
-git clone [https://github.com/seu-utilizador/crm-zap.git](https://github.com/seu-utilizador/crm-zap.git)
+git clone [https://github.com/seu-utilizador/crm-zap.git](https://github.com/Luis-Felipe-N/crm-zap.git)
 cd crm-zap
